@@ -1,0 +1,19 @@
+*{
+    background-color:rgb(250, 226, 106);
+
+}
+.contact {
+    color:black;
+    height: 600px;
+    width: 400px;
+    font-size: 20px;
+    margin-left: 900px;
+    margin-top:500px;
+}
+.img img{
+    height: 600px;
+    width: 400;
+    top: -1107px;
+    margin-left: 20px;
+    position: relative;
+}

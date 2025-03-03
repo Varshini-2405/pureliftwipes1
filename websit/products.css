@@ -1,0 +1,249 @@
+*{
+    background-color: #b57909;
+}
+
+.products a{
+    text-align: center;
+    text-decoration: none;
+     position: relative;
+     margin-left: 100px;
+     height: 50px;
+     width: 50px;
+     font-size: 20px;
+     border-radius: 2px;
+     top: 40px;
+    background-color:wheat;
+    
+}
+.products img{
+    height: 150px;
+    margin-left: -100px;
+    margin-top: 50px;
+}
+
+.products1 a{
+    text-align: center;
+    text-decoration: none;
+     position: relative;
+     margin-left: 650px;
+     height: 50px;
+     width: 50px;
+     font-size: 20px;
+     border-radius: 2px;
+     top: 30px;
+     background-color:wheat;
+    
+}
+
+.products1 img{
+    height: 150px;
+    margin-left: -100px;
+    margin-top: -230px;
+    margin-bottom: 10px;
+}
+
+.products2 a{
+    text-align: center;
+    text-decoration: none;
+     position: relative;
+     margin-left: 1150px;
+
+    
+     height: 50px;
+     width: 50px;
+     font-size: 20px;
+     border-radius: 2px;
+     top: 10px;
+     background-color: wheat;
+    
+}
+
+.products2 img{
+    height: 150px;
+    
+    margin-left: -60px;
+    margin-top: -230px;
+    margin-bottom: 30px;
+    
+}
+
+
+
+.products3 a{
+    text-align: center;
+    text-decoration: none;
+     position: relative;
+     margin-left: 100px;
+   
+     height: 100px;
+     width: 100px;
+     font-size: 20px;
+     border-radius: 2px;
+     top: 35px;
+     background-color: wheat;
+    
+}
+
+.products3 img{
+    height: 150px;
+    margin-left: -90px;
+    margin-top: 50px;
+
+    
+    
+}
+.products4 a{
+    text-align: center;
+    text-decoration: none;
+     position: relative;
+     margin-left: 650px;
+  
+     height: 50px;
+     width: 100px;
+     font-size: 20px;
+     border-radius: 2px;
+     top: 10px;
+     background-color:wheat;
+     
+    
+}
+
+.products4 img{
+    height: 150px;
+    margin-left: -90px;
+    margin-top: -170px;
+    margin-bottom: 20px;
+
+}
+.products5 a{
+    text-align: center;
+    text-decoration: none;
+     position: relative;
+     margin-left: 1150px;
+  
+     height: 50px;
+     width: 100px;
+     font-size: 20px;
+     border-radius: 2px;
+     top:5px;    
+     background-color: wheat;
+}
+
+.products5 img{
+    height: 150px;
+    margin-left: -90px;
+    margin-top: -200px;
+    margin-bottom: 35px;
+
+}
+.products6 a{
+    text-align: center;
+    text-decoration: none;
+     position: relative;
+     margin-left: 100px;
+    
+     height: 50px;
+     width: 100px;
+     font-size: 20px;
+     border-radius: 2px;
+     top: 30px;
+     background-color: wheat;
+    
+}
+
+.products6 img{
+   height: 150px;
+   margin-left: -85px;
+   margin-top: 50px;
+
+}
+.products7 a{
+    text-align: center;
+    text-decoration: none;
+    position: relative;
+    margin-left: 650px;
+    color: black;
+    height: 50px;
+    width: 100px;
+    font-size: 20px;
+    border-radius: 2px;
+    top: 20px;
+    background-color:wheat;
+}
+
+.products7 img{
+    height: 150px;
+    margin-left: -120px;
+    margin-top: -200px;
+    margin-bottom: 15px;
+ 
+ }
+.products8 a{
+    text-align: center;
+    text-decoration: none;
+    position: relative;
+    margin-left: 1140px;
+    color: black;
+    height: 50px;
+    width: 100px;
+    font-size: 20px;
+    border-radius: 2px;
+    top: 10px;
+    background-color:wheat;
+    
+}
+
+.products8 img{
+    height: 150px;
+    margin-left: -120px;
+    margin-top: -200px;
+    margin-bottom: 15px;
+    margin-bottom: 30px;
+ 
+ }
+ .products :hover{
+    color :bisque;
+    background-color:black;
+ }
+ .products1 :hover{
+    color:bisque;
+    background-color:black ;
+ }
+
+ .products2 :hover{
+    color:bisque;
+    background-color:black ;
+ }
+
+.products3 :hover{
+    color :bisque;
+    background-color: black;
+}
+.products4 :hover{
+    color:bisque;
+    background-color: black;
+
+}
+.products5 :hover{
+    color: bisque;
+    background-color: black;
+
+}
+.products6 :hover{
+    color: bisque;
+    background-color: black;
+}
+.products7 :hover{
+    color: bisque;
+    background-color: black;
+
+}
+.products8 :hover{
+    color: bisque;
+    background-color: black;
+}
+ 
+
+
+
+
